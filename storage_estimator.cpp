@@ -19,3 +19,4 @@ cout << " The time duration you entered is equivalent to  " << hours << " hours 
 cout << "The duration you entered is represented by " << T_mins << "  minutes.";
 return 0;
 }
+//Added storage calculation comments
